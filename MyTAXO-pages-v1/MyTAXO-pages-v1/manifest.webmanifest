@@ -1,0 +1,9 @@
+{
+  "name": "TAXO 561 — Compliance assistant",
+  "short_name": "TAXO 561",
+  "start_url": "./tachograph-561.html",
+  "display": "standalone",
+  "background_color": "#12161d",
+  "theme_color": "#12161d",
+  "description": "Offline-capable driving and rest-time compliance assistant. Not a certified tachograph."
+}
